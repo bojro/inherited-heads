@@ -1,0 +1,24 @@
+# environments and caches
+experiments/.venv*/
+**/__pycache__/
+*.pyc
+.cache/
+
+# regenerable testbed media (built by experiments/testbed/*.py)
+experiments/testbed/strips/
+experiments/testbed/comics/images/
+experiments/testbed/prosody_speaker/audio/
+experiments/testbed/prosody_emotion/audio/
+
+# large per-item matrices, regenerable from the runs
+experiments/discovery/results/**/per_item.npz
+
+# LaTeX build output
+paper/tex/*.aux
+paper/tex/*.log
+paper/tex/*.out
+paper/tex/*.pdf
+paper/tex/*.blg
+paper/tex/*.fls
+paper/tex/*.fdb_latexmk
+paper/tex/*.synctex.gz

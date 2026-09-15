@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper."
+title: "Inherited Heads"
+authors:
+  - family-names: Das
+    given-names: Bojro
+    affiliation: Cornell University
+repository-code: "https://github.com/bojro/inherited-heads"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Inherited Heads: Audio language models track speakers with their text backbone's attention, and an attention-mass ranking retrieves a different set"
+  authors:
+    - family-names: Das
+      given-names: Bojro
+      affiliation: Cornell University
+  year: 2026
+  journal: "arXiv preprint arXiv:2609.14174"
+  doi: "10.48550/arXiv.2609.14174"
+  url: "https://arxiv.org/abs/2609.14174"
