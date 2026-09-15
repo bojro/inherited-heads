@@ -1,0 +1,12 @@
+{
+  "model": "qwen2-audio",
+  "k": 100,
+  "switch_at": 25,
+  "n_items": 20,
+  "item_offset": 100,
+  "chance": 0.16666666666666666,
+  "stay_rate": 1.0,
+  "follow_rate": 0.0,
+  "median_latency_tokens": null,
+  "n_with_latency": 0
+}

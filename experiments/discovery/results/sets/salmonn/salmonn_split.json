@@ -1,0 +1,36 @@
+{
+  "k": 100,
+  "shape": [
+    40,
+    40
+  ],
+  "seed": 0,
+  "modality": "discovery/results/salmonn/scores.npz",
+  "text": "discovery/results/text/vicuna13b/scores.npz",
+  "n_shared": 74,
+  "n_only": 26,
+  "salmonn_shared74": {
+    "size": 74,
+    "layer_mean": 18.54054054054054,
+    "layer_min": 13,
+    "layer_max": 28
+  },
+  "salmonn_only26": {
+    "size": 26,
+    "layer_mean": 17.384615384615383,
+    "layer_min": 11,
+    "layer_max": 27
+  },
+  "salmonn_randmatched74": {
+    "size": 74,
+    "layer_mean": 18.54054054054054,
+    "layer_min": 13,
+    "layer_max": 28
+  },
+  "salmonn_randmatched26": {
+    "size": 26,
+    "layer_mean": 17.384615384615383,
+    "layer_min": 11,
+    "layer_max": 27
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "model": "qwen2-audio",
+  "n_items": 20,
+  "metric": "total_audio_attention_mass",
+  "top1": 0.9555503726005554,
+  "top100_mean": 0.7709996700286865,
+  "median": 0.46148881316185,
+  "min": 0.0021705105900764465
+}

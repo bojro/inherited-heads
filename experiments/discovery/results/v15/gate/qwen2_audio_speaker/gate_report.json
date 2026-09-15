@@ -1,0 +1,12 @@
+{
+  "model": "qwen2-audio",
+  "axis": "speaker",
+  "strips": "testbed/prosody_speaker",
+  "n_items": 10,
+  "item_offset": 100,
+  "n_trials": 60,
+  "chance": 0.5,
+  "accuracy": 0.55,
+  "unattributed_rate": 0.03333333333333333,
+  "accuracy_of_attributed": 0.5689655172413793
+}

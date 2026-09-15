@@ -1,0 +1,82 @@
+{
+  "model": "salmonn",
+  "n_items": 50,
+  "prompt": 0,
+  "query": "The audio contains six segments spoken by different people, separated by silences. What does the speaker of segment {k} (counting from 1) talk about?",
+  "bootstrap_95ci": {
+    "top_k_mean": [
+      0.24764886498451233,
+      0.24240121245384216,
+      0.253262460231781
+    ],
+    "separation": [
+      1.4531620740890503,
+      1.4237579107284546,
+      1.4849419593811035
+    ],
+    "real_vs_shuffled": [
+      1.4806302785873413,
+      1.4338252544403076,
+      1.5067607164382935
+    ],
+    "n_gt_025": [
+      41.0,
+      29.975,
+      46.0
+    ],
+    "top1": [
+      0.31898316740989685,
+      0.30712026357650757,
+      0.3311268985271454
+    ],
+    "n_heads_p_lt_0.001": 935,
+    "n_heads_p_eq_0": 591
+  },
+  "top100_mean": 0.24764889478683472,
+  "median": 0.17042067646980286,
+  "shuffled_top100_mean": 0.167259082198143,
+  "separation_ratio": 1.453162256580504,
+  "real_vs_shuffled_top100": 1.48063047777255,
+  "top100_layer_hist": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    5,
+    6,
+    3,
+    14,
+    5,
+    10,
+    10,
+    9,
+    8,
+    8,
+    4,
+    6,
+    2,
+    4,
+    1,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

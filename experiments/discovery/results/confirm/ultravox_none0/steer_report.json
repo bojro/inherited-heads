@@ -1,0 +1,84 @@
+{
+  "model": "ultravox",
+  "condition": "none",
+  "k": 0,
+  "B": 10000.0,
+  "n_items": 50,
+  "prompt": "The audio contains six segments spoken by different people, separated by silences. Describe what one of the speakers talks about, in one sentence.",
+  "heads": [],
+  "accuracy": 0.08,
+  "unattributed_rate": 0.4,
+  "per_target_accuracy": [
+    0.08,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "confusion_target_x_judged": [
+    [
+      4,
+      4,
+      5,
+      9,
+      3,
+      5,
+      20
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "judged_marginal": [
+    4,
+    4,
+    5,
+    9,
+    3,
+    5,
+    20
+  ]
+}

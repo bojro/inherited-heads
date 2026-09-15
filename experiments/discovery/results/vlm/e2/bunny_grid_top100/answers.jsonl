@@ -1,0 +1,120 @@
+{"item": 100, "target": 0, "judged": 0, "answer": " A girl is walking in the desert and looking at the mountains.", "scores": [4.68, 0.41, 0, 1.1, 0, 1.1]}
+{"item": 100, "target": 1, "judged": 1, "answer": " A boy is walking up a set of steps.", "scores": [0, 1.79, 0, 0, 0, 0]}
+{"item": 100, "target": 2, "judged": 2, "answer": " A girl is sitting in a grassy area with a book and a pencil, writing in a notebook.", "scores": [0.41, 0.41, 1.79, 0.41, 0, 0.41]}
+{"item": 100, "target": 3, "judged": 3, "answer": " A woman is climbing a rock wall.", "scores": [0, 0, 0, 1.79, 0, 0]}
+{"item": 100, "target": 4, "judged": 4, "answer": " A boy is looking at a stone and holding a magnifying glass.", "scores": [1.79, 1.1, 0, 0, 4.68, 0]}
+{"item": 100, "target": 5, "judged": -1, "answer": " A girl is looking at the stars and looking at a cactus.", "scores": [2.2, 0.41, 0, 0.41, 0, 2.2]}
+{"item": 101, "target": 0, "judged": 0, "answer": " A cartoon rabbit is playing basketball.", "scores": [1.79, 1.1, 0.69, 0, 0.69, 0]}
+{"item": 101, "target": 1, "judged": 4, "answer": " A bunny is running and jumping in the air, and is holding a basketball.", "scores": [1.1, 1.1, 0, 0, 1.79, 0]}
+{"item": 101, "target": 2, "judged": 2, "answer": " A rabbit is sitting on a bench drinking water.", "scores": [0.69, 0, 6.07, 0, 0.69, 0]}
+{"item": 101, "target": 3, "judged": 3, "answer": " A bunny is playing in a field with a sunflower and a sunflower bush.", "scores": [0, 0, 0, 3.58, 0, 0]}
+{"item": 101, "target": 4, "judged": 4, "answer": " A rabbit is standing on a podium with other animals and a small child.", "scores": [0.69, 0, 0.69, 0, 6.07, 0]}
+{"item": 101, "target": 5, "judged": 5, "answer": " A bunny is walking on the beach and is smiling.", "scores": [0, 0, 0, 0, 0, 1.79]}
+{"item": 102, "target": 0, "judged": 0, "answer": " A man is carving a piece of wood.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 102, "target": 1, "judged": 1, "answer": " A man is making a small sailboat.", "scores": [0, 2.89, 0, 0, 1.1, 0]}
+{"item": 102, "target": 2, "judged": 2, "answer": " A man is standing in front of a large wooden shelf.", "scores": [0, 1.1, 3.58, 0, 0, 1.1]}
+{"item": 102, "target": 3, "judged": -1, "answer": " An old man is sitting at a table and working on a carving.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 102, "target": 4, "judged": 4, "answer": " A man is sitting in a chair and working on a wooden bird.", "scores": [0, 1.1, 0, 0, 1.79, 1.1]}
+{"item": 102, "target": 5, "judged": 5, "answer": " A man is holding a clock in his hand.", "scores": [0, 0, 0, 0, 0, 3.58]}
+{"item": 103, "target": 0, "judged": 0, "answer": " A robot is working on a project with wires and cables.", "scores": [2.48, 0, 0.69, 0, 0.69, 0]}
+{"item": 103, "target": 1, "judged": -1, "answer": " A robot is standing in a room and smiling.", "scores": [0.69, 1.1, 0.69, 1.1, 0.69, 0]}
+{"item": 103, "target": 2, "judged": 2, "answer": " A robot is painting a picture on a canvas.", "scores": [0.69, 0, 4.28, 0, 0.69, 0]}
+{"item": 103, "target": 3, "judged": -1, "answer": " A robot is holding a toy and smiling.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 103, "target": 4, "judged": -1, "answer": " A robot is holding a camera and looking at a camera.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 103, "target": 5, "judged": -1, "answer": " A man is sitting at a desk and typing on a keyboard.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 104, "target": 0, "judged": 0, "answer": " An old woman is making a dough on a table.", "scores": [3.58, 0, 0, 0, 0, 0]}
+{"item": 104, "target": 1, "judged": 1, "answer": " A woman is knitting a sweater.", "scores": [0, 1.79, 0, 0, 0, 0]}
+{"item": 104, "target": 2, "judged": 2, "answer": " A woman is watering flowers in a garden.", "scores": [0, 0, 5.38, 0, 0, 0]}
+{"item": 104, "target": 3, "judged": 3, "answer": " A man is sitting on a yoga mat and meditating.", "scores": [0, 0, 0, 3.58, 0, 0]}
+{"item": 104, "target": 4, "judged": 4, "answer": " An elderly woman is sitting on the floor and working on a jigsaw puzzle.", "scores": [0, 0, 0, 0, 5.38, 0]}
+{"item": 104, "target": 5, "judged": 5, "answer": " A woman is opening a chest and looking at a box.", "scores": [0, 0, 0, 0, 0, 1.79]}
+{"item": 105, "target": 0, "judged": 0, "answer": " A boy is sitting on a bench and playing a guitar.", "scores": [3.58, 1.79, 0, 0, 0, 0]}
+{"item": 105, "target": 1, "judged": 1, "answer": " A boy is sitting at a piano and playing a piece of music.", "scores": [1.79, 4.68, 0, 0, 0, 1.1]}
+{"item": 105, "target": 2, "judged": 1, "answer": " A boy is playing the drums in a room with other people.", "scores": [0, 3.58, 1.79, 0, 0, 0]}
+{"item": 105, "target": 3, "judged": 3, "answer": " A woman is singing in a flower garden.", "scores": [0, 0, 0, 3.58, 0, 0]}
+{"item": 105, "target": 4, "judged": 4, "answer": " A boy is sitting on a wooden fence and looking at a picture of a man.", "scores": [1.79, 0, 0, 0, 3.58, 0]}
+{"item": 105, "target": 5, "judged": 5, "answer": " A boy is looking at a laptop and typing on it.", "scores": [0, 0, 0, 0, 0, 1.79]}
+{"item": 106, "target": 0, "judged": 0, "answer": " The first panel shows a fairy in a forest.", "scores": [2.48, 0, 0.69, 0, 0.69, 0]}
+{"item": 106, "target": 1, "judged": 4, "answer": " A fairy is looking at a mushroom and a net.", "scores": [0.69, 1.1, 0.69, 0, 3.58, 0]}
+{"item": 106, "target": 2, "judged": 2, "answer": " A fairy is flying in a garden with a pond.", "scores": [0.69, 0, 2.48, 0, 0.69, 0]}
+{"item": 106, "target": 3, "judged": -1, "answer": " A woman is holding a leaf and a stick, and is wearing a green dress.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 106, "target": 4, "judged": -1, "answer": " A fairy is dancing in the air with a flower on her foot.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 106, "target": 5, "judged": -1, "answer": " A woman is making a sculpture of a bird.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 107, "target": 0, "judged": 2, "answer": " A man in a space suit is standing in front of a solar panel.", "scores": [1.1, 0, 1.79, 0, 1.1, 0]}
+{"item": 107, "target": 1, "judged": 3, "answer": " A man in a space suit is flying through space.", "scores": [1.1, 0, 0, 1.79, 1.1, 0]}
+{"item": 107, "target": 2, "judged": 2, "answer": " A man in a yellow space suit is operating a control panel.", "scores": [1.1, 0, 1.79, 0, 1.1, 0]}
+{"item": 107, "target": 3, "judged": 0, "answer": " A man in a space suit is running through a space station.", "scores": [2.89, 0, 0, 1.79, 1.1, 0]}
+{"item": 107, "target": 4, "judged": -1, "answer": " A cartoon astronaut is looking up at the sky and holding a ball in his hand.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 107, "target": 5, "judged": -1, "answer": " A cartoon of a man in a space suit running through a room with many buttons.", "scores": [1.1, 0, 1.79, 1.79, 1.1, 0]}
+{"item": 108, "target": 0, "judged": 0, "answer": " A woman is tending to a rose garden.", "scores": [2.89, 0, 0, 0, 1.1, 0]}
+{"item": 108, "target": 1, "judged": 5, "answer": " A woman is working in a field, and she is wearing a hat and apron.", "scores": [0, 0, 0, 0, 0, 1.79]}
+{"item": 108, "target": 2, "judged": -1, "answer": " A woman is picking apples from a tree.", "scores": [0, 0, 1.79, 1.79, 0, 0]}
+{"item": 108, "target": 3, "judged": 3, "answer": " A woman is picking flowers from a basket.", "scores": [0, 0, 0, 5.38, 0, 0]}
+{"item": 108, "target": 4, "judged": 4, "answer": " A woman is kneeling in a garden, tending to a plant.", "scores": [1.1, 0, 0, 0, 2.89, 0]}
+{"item": 108, "target": 5, "judged": 5, "answer": " A woman is laying in a field and watching the sun set.", "scores": [0, 0, 0, 0, 0, 3.58]}
+{"item": 109, "target": 0, "judged": 0, "answer": " A dog is playing in the mud and splashing around.", "scores": [2.48, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 109, "target": 1, "judged": 1, "answer": " A rabbit is running through a field, and there are flowers and butterflies in the background.", "scores": [1.1, 1.79, 0, 1.1, 0, 0]}
+{"item": 109, "target": 2, "judged": -1, "answer": " A dog is licking a pile of laundry.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 109, "target": 3, "judged": 3, "answer": " A dog is running in the water and splashing around.", "scores": [0.69, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 109, "target": 4, "judged": 4, "answer": " A dog is standing on a chair and looking at a toy.", "scores": [0.69, 0, 0.69, 0, 2.48, 0]}
+{"item": 109, "target": 5, "judged": -1, "answer": " A dog is sleeping on a beach.", "scores": [0.69, 0, 0.69, 1.1, 0.69, 1.1]}
+{"item": 110, "target": 0, "judged": 0, "answer": " A robot cat is dancing with a disco ball.", "scores": [3.58, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 1, "judged": -1, "answer": " A cat is sitting on a table.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 2, "judged": -1, "answer": " A robot dog is walking on a track and has a laser beam on its head.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 3, "judged": -1, "answer": " A cartoon cat is sitting on a computer and is holding a remote.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 4, "judged": -1, "answer": " A cat is sleeping on a bed.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 5, "judged": -1, "answer": " A cat is flying in the air.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 111, "target": 0, "judged": 0, "answer": " A white owl is sitting on a snowy branch and blowing smoke from its mouth.", "scores": [2.89, 0.0, 0.0, 1.1, 0.0, 0.0]}
+{"item": 111, "target": 1, "judged": 0, "answer": " A white owl is flying in the air with a letter in its mouth.", "scores": [1.79, 0.0, 0.0, 0.0, 0.0, 0.0]}
+{"item": 111, "target": 2, "judged": 4, "answer": " A white owl is resting in a tree and looking at a fire.", "scores": [0.0, 0.0, 0.0, 0.0, 1.79, 0.0]}
+{"item": 111, "target": 3, "judged": -1, "answer": " A white owl is walking on a colorful string of candy.", "scores": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}
+{"item": 111, "target": 4, "judged": 4, "answer": " A white owl is reading a book and looking at the camera.", "scores": [0.0, 0.0, 0.0, 0.0, 3.58, 0.0]}
+{"item": 111, "target": 5, "judged": -1, "answer": " A white owl is flying over a lake.", "scores": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]}
+{"item": 112, "target": 0, "judged": -1, "answer": " A panda is sitting on the ground and smiling.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 112, "target": 1, "judged": 1, "answer": " A panda is sitting on a tree branch.", "scores": [0.69, 3.58, 0.69, 0, 0.69, 0]}
+{"item": 112, "target": 2, "judged": -1, "answer": " A panda is playing in the grass and is smiling.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 112, "target": 3, "judged": 3, "answer": " A panda is playing in the snow and is smiling.", "scores": [0.69, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 112, "target": 4, "judged": 4, "answer": " A panda is painting a picture of a lady with a brush.", "scores": [0.69, 0, 0.69, 0, 2.48, 0]}
+{"item": 112, "target": 5, "judged": 5, "answer": " A panda is flying a kite and smiling.", "scores": [0.69, 0, 0.69, 0, 0.69, 1.79]}
+{"item": 113, "target": 0, "judged": 0, "answer": " A boy is sitting at a table with a robot on it.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 113, "target": 1, "judged": -1, "answer": " A boy is flying a kite in the air.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 113, "target": 2, "judged": 2, "answer": " A boy is running in a park and doing tricks on a skateboard.", "scores": [0, 0, 1.79, 0, 0, 0]}
+{"item": 113, "target": 3, "judged": 1, "answer": " A boy is making a toy out of a piece of paper.", "scores": [0, 1.79, 0, 0, 0, 0]}
+{"item": 113, "target": 4, "judged": 0, "answer": " A man is making a sculpture out of a large metal contraption.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 113, "target": 5, "judged": 5, "answer": " A man is wearing a watch and making a wrist watch.", "scores": [0, 0, 0, 0, 0, 1.79]}
+{"item": 114, "target": 0, "judged": -1, "answer": " A man in a boat is rowing a small boat.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 114, "target": 1, "judged": -1, "answer": " A man is fishing in a river.", "scores": [0, 1.79, 0, 1.79, 0, 0]}
+{"item": 114, "target": 2, "judged": -1, "answer": " A man is fishing in a boat and catches a fish.", "scores": [0, 0, 1.79, 1.79, 0, 0]}
+{"item": 114, "target": 3, "judged": 3, "answer": " A woman is giving a fish to a man.", "scores": [0, 0, 0, 1.79, 0, 0]}
+{"item": 114, "target": 4, "judged": -1, "answer": " A man is holding a flower in his hand and is standing in the water.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 114, "target": 5, "judged": -1, "answer": " A man is holding a stick and a stick is in his hand.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 115, "target": 0, "judged": 0, "answer": " A fairy is flying in the air and smiling.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 115, "target": 1, "judged": 0, "answer": " A fairy is jumping in the air and splashing water.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 115, "target": 2, "judged": 0, "answer": " A fairy is running and jumping in the air.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 115, "target": 3, "judged": -1, "answer": " A cartoon character is playing a guitar and smiling.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 115, "target": 4, "judged": -1, "answer": " A cartoon character is running and smiling, with a grape in his hand.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 115, "target": 5, "judged": -1, "answer": " A fairy is swinging on a rope and holding a basket of flowers.", "scores": [0, 0, 0, 1.79, 0, 1.79]}
+{"item": 116, "target": 0, "judged": 3, "answer": " A blue dolphin is jumping out of the water.", "scores": [0.69, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 116, "target": 1, "judged": 1, "answer": " A group of jellyfish are swimming in the dark.", "scores": [0, 1.79, 0, 0, 0, 0]}
+{"item": 116, "target": 2, "judged": -1, "answer": " A dolphin is jumping in the ocean.", "scores": [0.69, 1.1, 0.69, 0, 0.69, 1.1]}
+{"item": 116, "target": 3, "judged": 3, "answer": " A dolphin is jumping in the air and spraying water.", "scores": [0.69, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 116, "target": 4, "judged": 3, "answer": " A purple dolphin is jumping out of the water and looking at the camera.", "scores": [0.69, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 116, "target": 5, "judged": -1, "answer": " A blue dolphin is flying through the air with a jellyfish and a jellyfish is swimming next to a jellyfish.", "scores": [0.69, 1.79, 0.69, 0, 0.69, 1.79]}
+{"item": 117, "target": 0, "judged": 0, "answer": " A skateboarder is performing tricks on a skateboard ramp.", "scores": [4.28, 0, 0.69, 0, 0.69, 0]}
+{"item": 117, "target": 1, "judged": -1, "answer": " A man is riding a skateboard on a wooden fence.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 117, "target": 2, "judged": -1, "answer": " A man is running on a skateboard.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 117, "target": 3, "judged": -1, "answer": " A man is surfing on a wave.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 117, "target": 4, "judged": 2, "answer": " A man is skateboarding on a street with buildings in the background.", "scores": [0, 0, 1.79, 0, 0, 0]}
+{"item": 117, "target": 5, "judged": -1, "answer": " A man is skateboarding down a set of stairs.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 118, "target": 0, "judged": -1, "answer": " A cat is holding a gold nugget and is looking at it.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 1, "judged": -1, "answer": " A cat is running on the beach and jumping over a rock.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 2, "judged": -1, "answer": " A cartoon cat is fishing in a boat.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 3, "judged": -1, "answer": " A cartoon cat is holding a toy submarine and wearing a helmet.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 4, "judged": -1, "answer": " A cat is walking through a forest and is wearing a hat.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 5, "judged": -1, "answer": " A cat is looking at a clock and seems to be looking at the time.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 119, "target": 0, "judged": -1, "answer": " A boy is digging in the dirt.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 119, "target": 1, "judged": 0, "answer": " A young boy is planting a tree in a field.", "scores": [2.48, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 119, "target": 2, "judged": -1, "answer": " A boy is playing in a garden and is wearing a hat.", "scores": [1.79, 0, 1.79, 0, 0.69, 0]}
+{"item": 119, "target": 3, "judged": 3, "answer": " A boy is standing in a circle of grass and looking at the ground.", "scores": [0.69, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 119, "target": 4, "judged": -1, "answer": " A young boy is working in a garden.", "scores": [1.79, 0, 1.79, 0, 0.69, 0]}
+{"item": 119, "target": 5, "judged": -1, "answer": " A boy is bending down to pick up a rock.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}

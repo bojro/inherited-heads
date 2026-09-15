@@ -1,0 +1,76 @@
+{
+  "model": "qwen2-vl",
+  "modality": "image",
+  "presentation": "tiled_strip_seed_protocol",
+  "n_items": 25,
+  "item_offset": 125,
+  "query": "The images are six panels of a comic strip, shown in order. What happens in panel {k} (counting from 1)?",
+  "bootstrap_95ci": {
+    "top_k_mean": [
+      0.20562267303466797,
+      0.2005312144756317,
+      0.21215586364269257
+    ],
+    "separation": [
+      1.2288752794265747,
+      1.1984997987747192,
+      1.267500638961792
+    ],
+    "real_vs_shuffled": [
+      1.2269537448883057,
+      1.1904141902923584,
+      1.261054515838623
+    ],
+    "n_gt_025": [
+      9.0,
+      4.0,
+      10.0
+    ],
+    "top1": [
+      0.2844911813735962,
+      0.2666151821613312,
+      0.3052629232406616
+    ],
+    "n_heads_p_lt_0.001": 156,
+    "n_heads_p_eq_0": 156
+  },
+  "top100_mean": 0.2056226856995347,
+  "median": 0.1673259384870402,
+  "shuffled_top100_mean": 0.16758794028000207,
+  "separation_ratio": 1.2288751377029372,
+  "real_vs_shuffled_top100": 1.2269539523905184,
+  "top100_layer_hist": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    1,
+    1,
+    10,
+    11,
+    13,
+    16,
+    7,
+    7,
+    7,
+    15,
+    9
+  ],
+  "raw_top100_mean": 0.05037635780785122,
+  "raw_median": 0.010334792991246407,
+  "raw_separation_ratio": 4.874442850526383,
+  "raw_real_vs_shuffled_top100": 1.0876998748899276
+}

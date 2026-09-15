@@ -1,0 +1,37 @@
+{
+  "model": "ultravox",
+  "n_items": 50,
+  "item_offset": 0,
+  "keys": [
+    "alpha_norm",
+    "alpha_raw",
+    "alpha_vnorm_norm",
+    "alpha_vnorm_raw",
+    "alpha_ovnorm_norm",
+    "alpha_ovnorm_raw"
+  ],
+  "alpha_norm": {
+    "overlap_with_alpha_norm": 100,
+    "overlap_with_alpha_raw": 4
+  },
+  "alpha_raw": {
+    "overlap_with_alpha_norm": 4,
+    "overlap_with_alpha_raw": 100
+  },
+  "alpha_vnorm_norm": {
+    "overlap_with_alpha_norm": 99,
+    "overlap_with_alpha_raw": 4
+  },
+  "alpha_vnorm_raw": {
+    "overlap_with_alpha_norm": 17,
+    "overlap_with_alpha_raw": 64
+  },
+  "alpha_ovnorm_norm": {
+    "overlap_with_alpha_norm": 99,
+    "overlap_with_alpha_raw": 4
+  },
+  "alpha_ovnorm_raw": {
+    "overlap_with_alpha_norm": 18,
+    "overlap_with_alpha_raw": 57
+  }
+}

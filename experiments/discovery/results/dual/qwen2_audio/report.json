@@ -1,0 +1,79 @@
+{
+  "model": "qwen2-audio",
+  "n_items": 50,
+  "item_offset": 0,
+  "prompt": 0,
+  "query": "The audio contains six segments spoken by different people, separated by silences. What does the speaker of segment {k} (counting from 1) talk about?",
+  "bootstrap_95ci": {
+    "top_k_mean": [
+      0.3194679915904999,
+      0.31318044662475586,
+      0.3259448707103729
+    ],
+    "separation": [
+      1.8965833187103271,
+      1.8593015670776367,
+      1.9352747201919556
+    ],
+    "real_vs_shuffled": [
+      1.9049687385559082,
+      1.7982850074768066,
+      1.9377244710922241
+    ],
+    "n_gt_025": [
+      137.0,
+      131.0,
+      140.0
+    ],
+    "top1": [
+      0.4257052540779114,
+      0.4087370038032532,
+      0.4445670545101166
+    ],
+    "n_heads_p_lt_0.001": 318,
+    "n_heads_p_eq_0": 314
+  },
+  "top100_mean": 0.3194679915904999,
+  "median": 0.1684439331293106,
+  "shuffled_top100_mean": 0.16770248115062714,
+  "separation_ratio": 1.8965835435892577,
+  "real_vs_shuffled_top100": 1.90496878399527,
+  "top100_layer_hist": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    2,
+    5,
+    9,
+    9,
+    9,
+    12,
+    7,
+    11,
+    6,
+    13,
+    7,
+    4,
+    1,
+    0,
+    0
+  ],
+  "raw_top100_mean": 0.2038644552230835,
+  "raw_median": 0.07209154963493347,
+  "raw_separation_ratio": 2.827855085033388,
+  "raw_real_vs_shuffled_top100": 1.7278081056281869
+}

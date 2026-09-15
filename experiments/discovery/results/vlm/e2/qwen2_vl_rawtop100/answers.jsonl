@@ -1,0 +1,120 @@
+{"item": 100, "target": 0, "judged": 4, "answer": "In the first panel, a young explorer is seen walking through a desert landscape, carrying a magnifying glass and a notebook, exploring the ancient ruins and takes notes notes and a notebook, exploring the ancient ruins.", "scores": [2.48, 1.1, 1.79, 0.69, 4.68, 2.48]}
+{"item": 100, "target": 1, "judged": 4, "answer": "A boy is looking at a wall with a magnifying glass.", "scores": [1.79, 0, 0, 0, 3.58, 0]}
+{"item": 100, "target": 2, "judged": 0, "answer": "In the first panel, a boy is standing in the desert, wearing a hat and carrying a backpack.", "scores": [2.48, 0, 0, 0.69, 0, 0.69]}
+{"item": 100, "target": 3, "judged": 0, "answer": "In the first panel, a character is standing in a desert, looking out at the horizon.", "scores": [4.28, 0, 0, 0.69, 0, 0.69]}
+{"item": 100, "target": 4, "judged": -1, "answer": "In the first panel, a character is standing in a desert landscape, wearing a hat and a trench coat and a hat and and a hat.", "scores": [2.48, 0, 0, 0.69, 0, 2.48]}
+{"item": 100, "target": 5, "judged": 0, "answer": "In the first panel, a young girl is standing in a desert, looking at a large rock formation.", "scores": [6.47, 0.41, 0, 1.1, 1.79, 1.1]}
+{"item": 101, "target": 0, "judged": 0, "answer": "The second image is a blue square with a cartoon of a rabbit playing basketball.", "scores": [1.79, 1.1, 0.69, 0, 0.69, 0]}
+{"item": 101, "target": 1, "judged": 0, "answer": "In the first panel, a group of children are playing basketball on a court.", "scores": [2.89, 1.1, 0, 0, 0, 0]}
+{"item": 101, "target": 2, "judged": 0, "answer": "The first image shows a rabbit playing basketball.", "scores": [1.79, 1.1, 0.69, 0, 0.69, 0]}
+{"item": 101, "target": 3, "judged": -1, "answer": "The image shows that the first panel shows \"The first image shows\".", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 101, "target": 4, "judged": 1, "answer": "In the first panel, a rabbit is playing basketball, holding a ball and jumping to throw the hoop.", "scores": [1.79, 2.89, 0.69, 0, 2.48, 0]}
+{"item": 101, "target": 5, "judged": 0, "answer": "In the first panel, a brown rabbit is playing basketball on a court.", "scores": [3.58, 1.1, 0.69, 0, 0.69, 0]}
+{"item": 102, "target": 0, "judged": 1, "answer": "In the first panel, an elderly man is seen working on a wooden toy boat, carefully crafting and a small wooden ship.", "scores": [0, 3.99, 1.79, 0, 1.1, 1.1]}
+{"item": 102, "target": 1, "judged": -1, "answer": "In the first panel, a man is painting a small boat.", "scores": [0, 1.1, 0, 0, 1.1, 0]}
+{"item": 102, "target": 2, "judged": 2, "answer": "In the first panel, an elderly man is sitting at a table, working on a wooden piece of furniture.", "scores": [0, 1.1, 1.79, 0, 0, 1.1]}
+{"item": 102, "target": 3, "judged": 1, "answer": "In the first panel, an elderly man is seen working on a wooden ship, carefully crafting a small sailboat with great detail and precision.", "scores": [0, 5.78, 1.79, 0, 1.1, 1.1]}
+{"item": 102, "target": 4, "judged": 2, "answer": "In the first panel, an elderly man is seen working on a wooden board, possibly crafting or repairing something.", "scores": [0, 1.1, 1.79, 0, 0, 1.1]}
+{"item": 102, "target": 5, "judged": 2, "answer": "An elderly man is painting a wooden block.", "scores": [0, 1.1, 1.79, 0, 0, 1.1]}
+{"item": 103, "target": 0, "judged": 0, "answer": "In the first panel, a robot is shown working on a computer, connecting various electrical components and wires.", "scores": [4.28, 0, 0.69, 0, 0.69, 3.58]}
+{"item": 103, "target": 1, "judged": 1, "answer": "In the first panel, a robot is flying a drone in the sky.", "scores": [2.48, 3.58, 0.69, 0, 0.69, 0]}
+{"item": 103, "target": 2, "judged": -1, "answer": "In the first panel, a robot is painting a picture of a robot.", "scores": [2.48, 0, 2.48, 0, 0.69, 0]}
+{"item": 103, "target": 3, "judged": 0, "answer": "The image shows a comic strip with six panels, each depicting a different scene or event.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 103, "target": 4, "judged": 0, "answer": "In the first panel, a robot is holding a paintbrush and a piece of paper with a circle and a triangle and a flower.", "scores": [2.48, 0, 0.69, 0, 0.69, 0]}
+{"item": 103, "target": 5, "judged": 2, "answer": "A robot is using a computer to draw on a canvas.", "scores": [0.69, 0, 2.48, 0, 0.69, 1.79]}
+{"item": 104, "target": 0, "judged": 0, "answer": "In the first panel, an elderly woman is shown kneading dough, preparing to make bread.", "scores": [5.38, 0, 0, 0, 0, 0]}
+{"item": 104, "target": 1, "judged": 1, "answer": "In the first panel, an old woman is knitting a scarf.", "scores": [0, 3.58, 0, 0, 0, 0]}
+{"item": 104, "target": 2, "judged": -1, "answer": "The first image shows a group of people in a room.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 104, "target": 3, "judged": -1, "answer": "In the first panel, a woman is sitting on a bench.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 104, "target": 4, "judged": 0, "answer": "In the first panel, an elderly woman is sitting at a table, engrossed in a book.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 104, "target": 5, "judged": -1, "answer": "In the first panel, an elderly woman is knitting at a table.", "scores": [1.79, 1.79, 0, 0, 0, 0]}
+{"item": 105, "target": 0, "judged": 1, "answer": "In the first panel, a young boy is seen playing the guitar, immersed in his music, surrounded by a group of people who are listening to his performance.", "scores": [1.79, 2.89, 0, 0, 0, 1.1]}
+{"item": 105, "target": 1, "judged": 1, "answer": "In the first panel, a young boy is playing the piano in a dimly room.", "scores": [0, 5.38, 0, 0, 0, 0]}
+{"item": 105, "target": 2, "judged": -1, "answer": "The comic strip shows a boy playing the harmonica.", "scores": [0, 1.79, 0, 0, 1.79, 0]}
+{"item": 105, "target": 3, "judged": -1, "answer": "In one sentence, the artist describes the process of creating a song.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 105, "target": 4, "judged": -1, "answer": "In the first panel, a boy is playing the harmonica.", "scores": [0, 1.79, 0, 0, 1.79, 0]}
+{"item": 105, "target": 5, "judged": 0, "answer": "In the first panel, a person is playing the guitar while another person is sitting on a chair.", "scores": [5.38, 1.79, 0, 0, 0, 0]}
+{"item": 106, "target": 0, "judged": -1, "answer": "In the first panel, a fairy is seen floating above a cloud, playing a small violin while a frog and a frog watches her.", "scores": [0.69, 0, 2.48, 0, 2.48, 0]}
+{"item": 106, "target": 1, "judged": 0, "answer": "In the first panel, a fairy is flying through a dark forest, surrounded by mushrooms and and the forest floor.", "scores": [4.28, 1.1, 0.69, 0, 3.58, 0]}
+{"item": 106, "target": 2, "judged": 0, "answer": "In the first panel, a fairy is flying through a magical forest, surrounded by fluttering butterflies and a gentle breeze.", "scores": [4.28, 0, 0.69, 0, 2.48, 0]}
+{"item": 106, "target": 3, "judged": -1, "answer": "The comic is a series of images, typically of a comic.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 106, "target": 4, "judged": 4, "answer": "In the first panel, a character is seen floating in the air, surrounded by a whimsical, dreamy atmosphere.", "scores": [0, 0, 0, 0, 1.79, 0]}
+{"item": 106, "target": 5, "judged": 0, "answer": "In the first panel, a fairy is seen flying through a forest, surrounded by trees and a mushroom.", "scores": [4.28, 1.1, 0.69, 0, 3.58, 0]}
+{"item": 107, "target": 0, "judged": 3, "answer": "In the first panel, an astronaut is floating in space, looking out of the window of their a spaceship, with a planet and a moon visible in the background.", "scores": [1.1, 1.1, 1.79, 3.58, 1.1, 1.1]}
+{"item": 107, "target": 1, "judged": 2, "answer": "In the first panel, a character is floating in space, wearing a spacesuit and a helmet, and appears to be in distress.", "scores": [1.1, 1.1, 1.79, 0, 1.1, 1.1]}
+{"item": 107, "target": 2, "judged": 2, "answer": "In the first panel, a man is seen standing in front of a large spaceship.", "scores": [0, 0, 1.79, 0, 0, 0]}
+{"item": 107, "target": 3, "judged": -1, "answer": "In the first panel, an astronaut is floating in space, looking at a planet with a starry background.", "scores": [1.1, 1.1, 1.79, 1.79, 1.1, 1.1]}
+{"item": 107, "target": 4, "judged": 2, "answer": "In the first panel, an astronaut is floating in space, holding a satellite dish.", "scores": [1.1, 1.1, 1.79, 0, 1.1, 1.1]}
+{"item": 107, "target": 5, "judged": 2, "answer": "In the first panel, an astronaut is floating in space, holding a large circular object.", "scores": [1.1, 1.1, 1.79, 0, 1.1, 1.1]}
+{"item": 108, "target": 0, "judged": 3, "answer": "A man is sitting in a field with a basket of flowers.", "scores": [0, 0, 0, 3.58, 0, 1.79]}
+{"item": 108, "target": 1, "judged": -1, "answer": "In the first panel, a woman is picking apples from a tree.", "scores": [0, 0, 1.79, 1.79, 0, 0]}
+{"item": 108, "target": 2, "judged": -1, "answer": "The image is a comic strip of a woman sitting on a chair.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 108, "target": 3, "judged": 3, "answer": "A woman is picking flowers from a garden.", "scores": [1.1, 0, 0, 3.58, 1.1, 0]}
+{"item": 108, "target": 4, "judged": -1, "answer": "In the first panel, a person is shown digging in the dirt.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 108, "target": 5, "judged": -1, "answer": "A woman is cutting flowers from a bush.", "scores": [1.79, 0, 0, 1.79, 0, 0]}
+{"item": 109, "target": 0, "judged": -1, "answer": "In the first panel, a dog is playing with a ball ball in the yard.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 109, "target": 1, "judged": 1, "answer": "In the first image, a dog is chasing a butterfly.", "scores": [0.69, 1.79, 0.69, 0, 0.69, 0]}
+{"item": 109, "target": 2, "judged": -1, "answer": "In the first panel, a dog is seen urinating on a pile of towels.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 109, "target": 3, "judged": -1, "answer": "In the first panel, a dog is playing with a ball butterfly.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 109, "target": 4, "judged": 4, "answer": "In the first panel, a dog is seen jumping into the air, seemingly excited or surprised.", "scores": [0.69, 0, 0.69, 0, 2.48, 0]}
+{"item": 109, "target": 5, "judged": 0, "answer": "In the second panel, a dog is seen running through a field.", "scores": [1.79, 0, 0.69, 1.1, 0.69, 0]}
+{"item": 110, "target": 0, "judged": 0, "answer": "In the first panel, a robot cat is playing with a ball, while in the second panel, the same robot cat is playing with a ball and a ball.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 1, "judged": 0, "answer": "In the first panel, a robot cat is seen playing with a ball, seemingly enjoying the interaction.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 2, "judged": 0, "answer": "The robot cat is playing with a ball.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 3, "judged": 0, "answer": "In the first panel, a robot cat is playing with a ball toy in a room with a window.", "scores": [2.89, 1.1, 0, 0, 0, 0]}
+{"item": 110, "target": 4, "judged": 0, "answer": "In the first panel, a robot cat is seen playing with a ball, which appears to be a toy or a piece of furniture.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 110, "target": 5, "judged": 0, "answer": "In the first panel, a cat is seen playing with a ball.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 111, "target": 0, "judged": 0, "answer": "In the first panel, a snowy owl is perched on a branch, gazing at the night sky.", "scores": [5.78, 0.0, 0.0, 1.1, 0.0, 1.1]}
+{"item": 111, "target": 1, "judged": 0, "answer": "In the first panel, a white owl is perched on a branch, holdinging a letter in its beak.", "scores": [3.58, 1.79, 0.0, 0.0, 0.0, 0.0]}
+{"item": 111, "target": 2, "judged": -1, "answer": "In the first panel, a small owl is sitting on a branch in the snow, with a full moon in the background.", "scores": [1.79, 1.79, 1.79, 0.0, 0.0, 0.0]}
+{"item": 111, "target": 3, "judged": 0, "answer": "The image shows a small illustration of a cartoon owl sitting on a branch in the snow, with a snowy landscape and trees in the background.", "scores": [2.89, 1.79, 1.79, 1.1, 0.0, 0.0]}
+{"item": 111, "target": 4, "judged": 0, "answer": "In the first panel, a small white owl is perched on a branch, with a full moon in the background.", "scores": [3.58, 0.0, 1.79, 0.0, 0.0, 0.0]}
+{"item": 111, "target": 5, "judged": 0, "answer": "An owl is sitting on a branch with a green bow around its neck.", "scores": [1.79, 0.0, 0.0, 0.0, 0.0, 0.0]}
+{"item": 112, "target": 0, "judged": 4, "answer": "In the first panel, a panda is painting on a canvas.", "scores": [0.69, 0, 0.69, 0, 2.48, 0]}
+{"item": 112, "target": 1, "judged": 1, "answer": "In the first panel, a panda is sitting on a branch of a tree.", "scores": [0.69, 3.58, 0.69, 0, 0.69, 0]}
+{"item": 112, "target": 2, "judged": 1, "answer": "The first image shows a panda bear sitting on a tree branch.", "scores": [0.69, 3.58, 0.69, 0, 0.69, 0]}
+{"item": 112, "target": 3, "judged": -1, "answer": "The images are six panel . In one panel , there is a panel of a comic strip, in which there is a comic strip of a comic strip, in which there is a comic strip of a comic strip, in which there is a comic strip", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 112, "target": 4, "judged": 1, "answer": "In the first panel, a panda is sitting on a tree branch, looking happy and surprised.", "scores": [0.69, 3.58, 0.69, 0, 0.69, 0]}
+{"item": 112, "target": 5, "judged": 1, "answer": "In the first panel, a panda is sitting on a tree branch, looking down at a tree trunk.", "scores": [0.69, 3.58, 0.69, 0, 0.69, 0]}
+{"item": 113, "target": 0, "judged": 0, "answer": "In the third panel, a boy is working on a robot at a table.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 113, "target": 1, "judged": 1, "answer": "In the first panel, a boy is seen throwing a paper plane in the air.", "scores": [0, 3.58, 0, 0, 0, 0]}
+{"item": 113, "target": 2, "judged": 0, "answer": "In the first panel, a boy is playing with a robot on a table.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 113, "target": 3, "judged": -1, "answer": "In the first panel, a boy is shown sitting at a table, engrossed in his work.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 113, "target": 4, "judged": 0, "answer": "In the first panel, a boy is seen playing with a robot, engaging in a creative and imaginative activity.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 113, "target": 5, "judged": 0, "answer": "In the first panel, a person is seen working on a robot, which is lying on a table.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 114, "target": 0, "judged": 3, "answer": "In the first panel, a man is seen rowing a boat with a paddle, while another man is fishing with a rod.", "scores": [0, 0, 0, 1.79, 0, 0]}
+{"item": 114, "target": 1, "judged": -1, "answer": "In the first panel, a man is seen fishing with a rod and reel in a boat.", "scores": [0, 0, 1.79, 1.79, 0, 0]}
+{"item": 114, "target": 2, "judged": 3, "answer": "In the first panel, a man is fishing in a boat.", "scores": [0, 0, 0, 1.79, 0, 0]}
+{"item": 114, "target": 3, "judged": -1, "answer": " The images are the panel", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 114, "target": 4, "judged": -1, "answer": "In the first panel, a man is seen holding a fishing rod, preparing to cast his line into the water.", "scores": [0, 1.79, 0, 1.79, 0, 0]}
+{"item": 114, "target": 5, "judged": 3, "answer": "In the first panel, a man is standing in a boat, holding a fishing rod.", "scores": [0, 0, 0, 1.79, 0, 0]}
+{"item": 115, "target": 0, "judged": 1, "answer": "In the first panel, a fairy is flying through the sky, surrounded by a magical aura and a star.", "scores": [0, 1.79, 0, 0, 0, 0]}
+{"item": 115, "target": 1, "judged": 1, "answer": "In the first panel, a fairy is flying through the sky with a star in the background.", "scores": [0, 1.79, 0, 0, 0, 0]}
+{"item": 115, "target": 2, "judged": -1, "answer": "In the first panel, a fairy is flying through the sky, surrounded by a blue sky and white clouds.", "scores": [0, 0, 1.79, 0, 1.79, 0]}
+{"item": 115, "target": 3, "judged": -1, "answer": "The image is a vibrant and cheerful comic strip panel featuring a whimsical and colorful illustration of a cute and cheerful cartoon character, set against a bright and sunny background.", "scores": [0, 0, 1.79, 1.79, 0, 0]}
+{"item": 115, "target": 4, "judged": -1, "answer": "In the first panel, a fairy is seen jumping over a large flower, surrounded by a burst of petals and a cloud of dust.", "scores": [1.79, 0, 0, 1.79, 1.79, 0]}
+{"item": 115, "target": 5, "judged": -1, "answer": "A fairy is dancing in the rain.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 116, "target": 0, "judged": 0, "answer": "In the first panel, a dolphin is swimming gracefully through a vibrant underwater scene, surrounded by colorful coral and a rainbow-colored coral reef.", "scores": [6.07, 1.79, 0.69, 1.79, 0.69, 1.79]}
+{"item": 116, "target": 1, "judged": 3, "answer": "In the third panel, a dolphin is jumping out of the water, creating a splash behind it.", "scores": [0.69, 0, 0.69, 1.79, 0.69, 0]}
+{"item": 116, "target": 2, "judged": 3, "answer": "In the first panel, a dolphin is swimming in the ocean with a rainbow in the background.", "scores": [0.69, 1.1, 0.69, 1.79, 0.69, 1.1]}
+{"item": 116, "target": 3, "judged": 0, "answer": "In the first panel, a vibrant underwater scene features a colorful coral reef with various marine life, including fish, jellyfish, and a playful dolphin and a playful octopus. The scene is filled with a rainbow of colors and a rainbow of colors,", "scores": [9.65, 3.58, 0.69, 1.79, 0.69, 0]}
+{"item": 116, "target": 4, "judged": 0, "answer": "The first panel shows a dolphin swimming in a colorful ocean with various fish and the second panel shows a dolphin jumping out of the water with a colorful underwater scene in the background the third panel shows a dolphin jumping out of the water with a colorful underwater scene", "scores": [4.28, 2.89, 0.69, 1.79, 0.69, 1.1]}
+{"item": 116, "target": 5, "judged": 0, "answer": "In the first panel, a dolphin is swimming in the ocean, surrounded by various sea creatures and colorful fish.", "scores": [4.28, 1.1, 2.48, 0, 0.69, 1.1]}
+{"item": 117, "target": 0, "judged": 0, "answer": "In the first panel, a skateboarder is seen performing a trick on a ramp, showcasing their the skill and creativity involved in the sport.", "scores": [4.28, 0, 0.69, 0, 0.69, 0]}
+{"item": 117, "target": 1, "judged": -1, "answer": "In the first panel, a man is skateboarding down a bridge.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 117, "target": 2, "judged": 0, "answer": "In the first panel, a boy is riding a skateboard down a ramp.", "scores": [1.79, 0, 0, 0, 0, 0]}
+{"item": 117, "target": 3, "judged": 0, "answer": "In the first panel, a skateboarder is seen performing a trick on a ramp, showcasing their of the tricks and the skateboarder can perform.", "scores": [4.28, 0, 0.69, 0, 0.69, 0]}
+{"item": 117, "target": 4, "judged": 0, "answer": "In the first panel, a skateboarder is seen performing a trick over a ramp, with the skateboard flippinging in the air.", "scores": [4.28, 0, 0.69, 0, 0.69, 0]}
+{"item": 117, "target": 5, "judged": -1, "answer": "In the first panel, a person is seen riding a skateboard down a winding road, with a tree and a mountain in the background.", "scores": [0, 0, 0, 0, 0, 0]}
+{"item": 118, "target": 0, "judged": 4, "answer": "In the first panel, a cat is seen wearing a hat and a suit, holding a car with a suitcase, looking for a treasure in the desert.", "scores": [0.69, 0, 0.69, 0, 2.48, 0]}
+{"item": 118, "target": 1, "judged": -1, "answer": "In the first panel, a cat is seen flying through the air, with its arms and legs outstretched, as if it is in mid-air.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 2, "judged": -1, "answer": "In the first panel, a cat is sailing on a boat with a sail.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 3, "judged": -1, "answer": "In the first panel, a cat is depicted in a desert-like environment, surrounded by cacti and various plants and flowers. The cat appears to be in a desert-like environment, surrounded by cacti and various plants and flowers. The cat", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 4, "judged": -1, "answer": "In the first panel, a cat is seen running through a field, with a backpack on its back and a treasure chest in front of it.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 118, "target": 5, "judged": -1, "answer": "In the first panel, a cat is seen standing on a rock, holdinging a treasure chest, with a background of a mountain and a cave.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 119, "target": 0, "judged": 0, "answer": "In the first panel, a child is shown planting a seedling in a garden, while in the second panel, the child is planting a seedling in a garden, and the third panel, the child is planting a seedling in a garden,", "scores": [2.89, 0, 1.1, 0, 0, 0]}
+{"item": 119, "target": 1, "judged": -1, "answer": "A boy is kneeling down in the dirt, holding a shovel.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 119, "target": 2, "judged": -1, "answer": "A boy is playing in the dirt.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 119, "target": 3, "judged": -1, "answer": "In one of the panels, a young boy is depicted holding a shovel, wearing a straw hat and a brown shirt, and a brown shirt, and a brown hat, and a brown hat, and a brown hat, and a brown hat, and", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 119, "target": 4, "judged": -1, "answer": "In the first panel, a boy is seen kneeling in the dirt, holding a shovel in his hand, and he is smiling and looking down at the ground.", "scores": [0.69, 0, 0.69, 0, 0.69, 0]}
+{"item": 119, "target": 5, "judged": 0, "answer": "In the first panel, a boy is kneeling in the dirt, carefully planting a seedling.", "scores": [2.48, 0, 0.69, 0, 0.69, 0]}

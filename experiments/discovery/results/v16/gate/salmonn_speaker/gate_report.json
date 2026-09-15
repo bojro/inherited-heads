@@ -1,0 +1,14 @@
+{
+  "model": "salmonn",
+  "axis": "speaker",
+  "readout": "logit-difference",
+  "strips": "testbed/prosody_speaker",
+  "n_items": 20,
+  "n_trials": 120,
+  "chance": 0.5,
+  "accuracy": 0.5,
+  "candidates": {
+    "male": " man",
+    "female": " woman"
+  }
+}

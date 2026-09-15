@@ -1,0 +1,44 @@
+{
+  "e1": "discovery/results/qwen2_audio_v2/scores.npz",
+  "subset": "discovery/results/sets/qwen2_audio/qwen2_audio_only34.npz",
+  "k": 100,
+  "shape": [
+    32,
+    32
+  ],
+  "size": 34,
+  "layer_counts": {
+    "19": 2,
+    "21": 4,
+    "22": 5,
+    "23": 3,
+    "24": 4,
+    "25": 3,
+    "26": 4,
+    "27": 4,
+    "28": 4,
+    "29": 1
+  },
+  "draws": {
+    "qwen2_audio_randmatched34_s1": {
+      "seed": 1,
+      "size": 34,
+      "layer_mean": 24.264705882352942
+    },
+    "qwen2_audio_randmatched34_s2": {
+      "seed": 2,
+      "size": 34,
+      "layer_mean": 24.264705882352942
+    },
+    "qwen2_audio_randmatched34_s3": {
+      "seed": 3,
+      "size": 34,
+      "layer_mean": 24.264705882352942
+    },
+    "qwen2_audio_randmatched34_s4": {
+      "seed": 4,
+      "size": 34,
+      "layer_mean": 24.264705882352942
+    }
+  }
+}

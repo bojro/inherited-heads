@@ -1,0 +1,48 @@
+{
+  "e1": "discovery/results/salmonn/scores.npz",
+  "subset": "discovery/results/sets/salmonn/salmonn_shared74.npz",
+  "k": 100,
+  "shape": [
+    40,
+    40
+  ],
+  "size": 74,
+  "layer_counts": {
+    "13": 2,
+    "14": 3,
+    "15": 13,
+    "16": 5,
+    "17": 8,
+    "18": 8,
+    "19": 7,
+    "20": 8,
+    "21": 8,
+    "22": 3,
+    "23": 4,
+    "24": 1,
+    "25": 2,
+    "28": 2
+  },
+  "draws": {
+    "salmonn_randmatched74_s1": {
+      "seed": 1,
+      "size": 74,
+      "layer_mean": 18.54054054054054
+    },
+    "salmonn_randmatched74_s2": {
+      "seed": 2,
+      "size": 74,
+      "layer_mean": 18.54054054054054
+    },
+    "salmonn_randmatched74_s3": {
+      "seed": 3,
+      "size": 74,
+      "layer_mean": 18.54054054054054
+    },
+    "salmonn_randmatched74_s4": {
+      "seed": 4,
+      "size": 74,
+      "layer_mean": 18.54054054054054
+    }
+  }
+}

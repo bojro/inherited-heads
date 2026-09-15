@@ -1,0 +1,69 @@
+{
+  "e1": "discovery/results/qwen2_audio_v2/scores.npz",
+  "shared": "discovery/results/sets/qwen2_audio/qwen2_audio_shared66.npz",
+  "k": 100,
+  "shape": [
+    32,
+    32
+  ],
+  "n_shared": 66,
+  "n_only": 34,
+  "cells": {
+    "A": {
+      "size": 66,
+      "expected_shared": 43.56,
+      "min_possible_shared": 32,
+      "draws": {
+        "qwen2_audio_t100rand66_s0": {
+          "seed": 0,
+          "size": 66,
+          "shared_in_draw": 45,
+          "shared_frac": 0.6818181818181818,
+          "layer_mean": 23.03030303030303
+        },
+        "qwen2_audio_t100rand66_s1": {
+          "seed": 1,
+          "size": 66,
+          "shared_in_draw": 48,
+          "shared_frac": 0.7272727272727273,
+          "layer_mean": 21.939393939393938
+        },
+        "qwen2_audio_t100rand66_s2": {
+          "seed": 2,
+          "size": 66,
+          "shared_in_draw": 43,
+          "shared_frac": 0.6515151515151515,
+          "layer_mean": 22.257575757575758
+        }
+      }
+    },
+    "B": {
+      "size": 34,
+      "expected_shared": 22.44,
+      "min_possible_shared": 0,
+      "draws": {
+        "qwen2_audio_t100rand34_s0": {
+          "seed": 0,
+          "size": 34,
+          "shared_in_draw": 21,
+          "shared_frac": 0.6176470588235294,
+          "layer_mean": 22.88235294117647
+        },
+        "qwen2_audio_t100rand34_s1": {
+          "seed": 1,
+          "size": 34,
+          "shared_in_draw": 22,
+          "shared_frac": 0.6470588235294118,
+          "layer_mean": 22.029411764705884
+        },
+        "qwen2_audio_t100rand34_s2": {
+          "seed": 2,
+          "size": 34,
+          "shared_in_draw": 23,
+          "shared_frac": 0.6764705882352942,
+          "layer_mean": 21.647058823529413
+        }
+      }
+    }
+  }
+}

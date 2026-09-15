@@ -1,0 +1,82 @@
+{
+  "model": "salmonn",
+  "n_items": 20,
+  "prompt": 0,
+  "query": "The audio contains six segments spoken by different people, separated by silences. What does the speaker of segment {k} (counting from 1) talk about?",
+  "accuracy": 0.225,
+  "accuracy_among_attributed": 0.28125,
+  "unattributed_rate": 0.2,
+  "per_query_accuracy": [
+    0.55,
+    0.1,
+    0.1,
+    0.15,
+    0.05,
+    0.4
+  ],
+  "confusion_queried_x_judged": [
+    [
+      11,
+      2,
+      1,
+      1,
+      0,
+      2,
+      3
+    ],
+    [
+      8,
+      2,
+      2,
+      1,
+      0,
+      3,
+      4
+    ],
+    [
+      5,
+      1,
+      2,
+      2,
+      0,
+      7,
+      3
+    ],
+    [
+      2,
+      2,
+      1,
+      3,
+      1,
+      7,
+      4
+    ],
+    [
+      1,
+      1,
+      1,
+      3,
+      1,
+      9,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      6,
+      8,
+      6
+    ]
+  ],
+  "judged_col_marginal": [
+    27,
+    8,
+    7,
+    10,
+    8,
+    36,
+    24
+  ]
+}

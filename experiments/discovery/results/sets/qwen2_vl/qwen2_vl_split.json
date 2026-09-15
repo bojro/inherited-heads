@@ -1,0 +1,44 @@
+{
+  "k": 100,
+  "shape": [
+    28,
+    28
+  ],
+  "seed": 0,
+  "relaxed_layers": [
+    {
+      "layer": 26,
+      "needed": 14,
+      "strict_pool": 0,
+      "relaxed_pool": 14
+    }
+  ],
+  "modality": "discovery/results/vlm/qwen2_vl/scores.npz",
+  "text": "discovery/results/text/qwen2_7b_captions/scores.npz",
+  "n_shared": 73,
+  "n_only": 27,
+  "qwen2_vl_shared73": {
+    "size": 73,
+    "layer_mean": 23.054794520547944,
+    "layer_min": 18,
+    "layer_max": 27
+  },
+  "qwen2_vl_only27": {
+    "size": 27,
+    "layer_mean": 22.296296296296298,
+    "layer_min": 16,
+    "layer_max": 27
+  },
+  "qwen2_vl_randmatched73": {
+    "size": 73,
+    "layer_mean": 23.054794520547944,
+    "layer_min": 18,
+    "layer_max": 27
+  },
+  "qwen2_vl_randmatched27": {
+    "size": 27,
+    "layer_mean": 22.296296296296298,
+    "layer_min": 16,
+    "layer_max": 27
+  }
+}

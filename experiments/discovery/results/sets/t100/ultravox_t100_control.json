@@ -1,0 +1,69 @@
+{
+  "e1": "discovery/results/ultravox/scores.npz",
+  "shared": "discovery/results/sets/ultravox_shared71.npz",
+  "k": 100,
+  "shape": [
+    32,
+    32
+  ],
+  "n_shared": 71,
+  "n_only": 29,
+  "cells": {
+    "A": {
+      "size": 71,
+      "expected_shared": 50.41,
+      "min_possible_shared": 42,
+      "draws": {
+        "ultravox_t100rand71_s0": {
+          "seed": 0,
+          "size": 71,
+          "shared_in_draw": 49,
+          "shared_frac": 0.6901408450704225,
+          "layer_mean": 22.802816901408452
+        },
+        "ultravox_t100rand71_s1": {
+          "seed": 1,
+          "size": 71,
+          "shared_in_draw": 50,
+          "shared_frac": 0.704225352112676,
+          "layer_mean": 22.492957746478872
+        },
+        "ultravox_t100rand71_s2": {
+          "seed": 2,
+          "size": 71,
+          "shared_in_draw": 51,
+          "shared_frac": 0.7183098591549296,
+          "layer_mean": 22.774647887323944
+        }
+      }
+    },
+    "B": {
+      "size": 29,
+      "expected_shared": 20.59,
+      "min_possible_shared": 0,
+      "draws": {
+        "ultravox_t100rand29_s0": {
+          "seed": 0,
+          "size": 29,
+          "shared_in_draw": 20,
+          "shared_frac": 0.6896551724137931,
+          "layer_mean": 24.06896551724138
+        },
+        "ultravox_t100rand29_s1": {
+          "seed": 1,
+          "size": 29,
+          "shared_in_draw": 20,
+          "shared_frac": 0.6896551724137931,
+          "layer_mean": 22.620689655172413
+        },
+        "ultravox_t100rand29_s2": {
+          "seed": 2,
+          "size": 29,
+          "shared_in_draw": 20,
+          "shared_frac": 0.6896551724137931,
+          "layer_mean": 23.413793103448278
+        }
+      }
+    }
+  }
+}

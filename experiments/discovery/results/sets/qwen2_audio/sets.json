@@ -1,0 +1,36 @@
+{
+  "k": 100,
+  "gaze_band": [
+    16,
+    29
+  ],
+  "shape": [
+    32,
+    32
+  ],
+  "all_head_median_mass": 0.46148881316185,
+  "gaze_lowmass": {
+    "size": 50,
+    "mean_gaze": 0.32201915979385376,
+    "mean_mass": 0.3763324022293091,
+    "layer_min": 16,
+    "layer_max": 28,
+    "layer_mean": 21.5
+  },
+  "gaze_highmass": {
+    "size": 50,
+    "mean_gaze": 0.31691691279411316,
+    "mean_mass": 0.7845230102539062,
+    "layer_min": 16,
+    "layer_max": 29,
+    "layer_mean": 23.52
+  },
+  "mass_bandmatched": {
+    "size": 50,
+    "mean_gaze": 0.21705009043216705,
+    "mean_mass": 0.7300659418106079,
+    "layer_min": 16,
+    "layer_max": 29,
+    "layer_mean": 23.38
+  }
+}

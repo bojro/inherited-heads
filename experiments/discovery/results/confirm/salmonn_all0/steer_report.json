@@ -1,0 +1,84 @@
+{
+  "model": "salmonn",
+  "condition": "all",
+  "k": 1600,
+  "B": 10000.0,
+  "n_items": 50,
+  "prompt": "The audio contains six segments spoken by different people, separated by silences. Describe what one of the speakers talks about, in one sentence.",
+  "heads": "all",
+  "accuracy": 0.0,
+  "unattributed_rate": 1.0,
+  "per_target_accuracy": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "confusion_target_x_judged": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50
+    ]
+  ],
+  "judged_marginal": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    300
+  ]
+}

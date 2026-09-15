@@ -1,0 +1,14 @@
+{
+  "model": "salmonn",
+  "k": 100,
+  "switch_at": 60,
+  "n_items": 20,
+  "prompt_style": "narrate",
+  "max_new": 120,
+  "item_offset": 100,
+  "chance": 0.16666666666666666,
+  "stay_rate": 0.95,
+  "follow_rate": 0.45,
+  "median_latency_tokens": 5.5,
+  "n_with_latency": 10
+}

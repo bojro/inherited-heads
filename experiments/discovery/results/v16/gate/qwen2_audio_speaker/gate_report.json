@@ -1,0 +1,14 @@
+{
+  "model": "qwen2-audio",
+  "axis": "speaker",
+  "readout": "logit-difference",
+  "strips": "testbed/prosody_speaker",
+  "n_items": 20,
+  "n_trials": 120,
+  "chance": 0.5,
+  "accuracy": 0.55,
+  "candidates": {
+    "male": " man",
+    "female": " woman"
+  }
+}

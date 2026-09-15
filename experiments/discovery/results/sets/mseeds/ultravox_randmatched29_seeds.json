@@ -1,0 +1,48 @@
+{
+  "e1": "discovery/results/ultravox/scores.npz",
+  "subset": "discovery/results/sets/ultravox_audioonly29.npz",
+  "k": 100,
+  "shape": [
+    32,
+    32
+  ],
+  "size": 29,
+  "layer_counts": {
+    "10": 1,
+    "13": 1,
+    "16": 4,
+    "17": 2,
+    "19": 1,
+    "20": 3,
+    "22": 2,
+    "23": 1,
+    "24": 1,
+    "25": 1,
+    "26": 2,
+    "27": 2,
+    "29": 1,
+    "30": 7
+  },
+  "draws": {
+    "ultravox_randmatched29_s1": {
+      "seed": 1,
+      "size": 29,
+      "layer_mean": 22.79310344827586
+    },
+    "ultravox_randmatched29_s2": {
+      "seed": 2,
+      "size": 29,
+      "layer_mean": 22.79310344827586
+    },
+    "ultravox_randmatched29_s3": {
+      "seed": 3,
+      "size": 29,
+      "layer_mean": 22.79310344827586
+    },
+    "ultravox_randmatched29_s4": {
+      "seed": 4,
+      "size": 29,
+      "layer_mean": 22.79310344827586
+    }
+  }
+}

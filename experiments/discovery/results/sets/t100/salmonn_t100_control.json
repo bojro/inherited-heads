@@ -1,0 +1,69 @@
+{
+  "e1": "discovery/results/salmonn/scores.npz",
+  "shared": "discovery/results/sets/salmonn/salmonn_shared74.npz",
+  "k": 100,
+  "shape": [
+    40,
+    40
+  ],
+  "n_shared": 74,
+  "n_only": 26,
+  "cells": {
+    "A": {
+      "size": 74,
+      "expected_shared": 54.76,
+      "min_possible_shared": 48,
+      "draws": {
+        "salmonn_t100rand74_s0": {
+          "seed": 0,
+          "size": 74,
+          "shared_in_draw": 53,
+          "shared_frac": 0.7162162162162162,
+          "layer_mean": 18.31081081081081
+        },
+        "salmonn_t100rand74_s1": {
+          "seed": 1,
+          "size": 74,
+          "shared_in_draw": 52,
+          "shared_frac": 0.7027027027027027,
+          "layer_mean": 18.2027027027027
+        },
+        "salmonn_t100rand74_s2": {
+          "seed": 2,
+          "size": 74,
+          "shared_in_draw": 53,
+          "shared_frac": 0.7162162162162162,
+          "layer_mean": 18.33783783783784
+        }
+      }
+    },
+    "B": {
+      "size": 26,
+      "expected_shared": 19.24,
+      "min_possible_shared": 0,
+      "draws": {
+        "salmonn_t100rand26_s0": {
+          "seed": 0,
+          "size": 26,
+          "shared_in_draw": 18,
+          "shared_frac": 0.6923076923076923,
+          "layer_mean": 17.884615384615383
+        },
+        "salmonn_t100rand26_s1": {
+          "seed": 1,
+          "size": 26,
+          "shared_in_draw": 19,
+          "shared_frac": 0.7307692307692307,
+          "layer_mean": 16.884615384615383
+        },
+        "salmonn_t100rand26_s2": {
+          "seed": 2,
+          "size": 26,
+          "shared_in_draw": 21,
+          "shared_frac": 0.8076923076923077,
+          "layer_mean": 18.0
+        }
+      }
+    }
+  }
+}

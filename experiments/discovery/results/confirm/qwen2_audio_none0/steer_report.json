@@ -1,0 +1,84 @@
+{
+  "model": "qwen2-audio",
+  "condition": "none",
+  "k": 0,
+  "B": 10000.0,
+  "n_items": 50,
+  "prompt": "The audio contains six segments spoken by different people, separated by silences. Describe what one of the speakers talks about, in one sentence.",
+  "heads": [],
+  "accuracy": 0.06,
+  "unattributed_rate": 0.06,
+  "per_target_accuracy": [
+    0.06,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "confusion_target_x_judged": [
+    [
+      3,
+      8,
+      8,
+      6,
+      10,
+      12,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "judged_marginal": [
+    3,
+    8,
+    8,
+    6,
+    10,
+    12,
+    3
+  ]
+}

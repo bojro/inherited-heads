@@ -1,0 +1,60 @@
+{"item": 100, "seg": 0, "correct": true, "pred": "female", "answer": "The voice in segment 1 is that of a woman. It sounds neutral."}
+{"item": 100, "seg": 1, "correct": false, "pred": "male", "answer": "The voice in segment 2 is that of a man. It sounds calm."}
+{"item": 100, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man. It sounds calm."}
+{"item": 100, "seg": 3, "correct": false, "pred": "male", "answer": "The voice in segment 4 is that of a man. It sounds calm."}
+{"item": 100, "seg": 4, "correct": true, "pred": "male", "answer": "The voice in segment 5 is that of a man. It sounds calm."}
+{"item": 100, "seg": 5, "correct": true, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds calm."}
+{"item": 101, "seg": 0, "correct": true, "pred": "male", "answer": "The voice in segment 1 is that of a man. It sounds calm."}
+{"item": 101, "seg": 1, "correct": true, "pred": "male", "answer": "The voice in segment 2 is that of a man. It sounds calm."}
+{"item": 101, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man. It sounds English with a neutral mood."}
+{"item": 101, "seg": 3, "correct": false, "pred": "male", "answer": "The voice in segment 4 is that of a man. It sounds English with a neutral mood."}
+{"item": 101, "seg": 4, "correct": false, "pred": "male", "answer": "The voice in segment 5 is that of a man. It sounds English with a neutral mood."}
+{"item": 101, "seg": 5, "correct": false, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds calm."}
+{"item": 102, "seg": 0, "correct": false, "pred": "female", "answer": "The voice in segment 1 is that of a woman. It sounds fearful."}
+{"item": 102, "seg": 1, "correct": false, "pred": "male", "answer": "The voice in segment 2 is that of a man. It sounds calm."}
+{"item": 102, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man. It sounds English with a neutral mood."}
+{"item": 102, "seg": 3, "correct": true, "pred": "male", "answer": "The voice in segment 4 is that of a man. It sounds calm."}
+{"item": 102, "seg": 4, "correct": false, "pred": "male", "answer": "The voice in segment 5 is that of a man. It sounds English with a neutral mood."}
+{"item": 102, "seg": 5, "correct": false, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds calm."}
+{"item": 103, "seg": 0, "correct": false, "pred": "male", "answer": "The voice in segment 1 is that of a man. It sounds neutral."}
+{"item": 103, "seg": 1, "correct": true, "pred": "female", "answer": "The second speaker is female with a neutral mood."}
+{"item": 103, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man. It sounds like an English male singing."}
+{"item": 103, "seg": 3, "correct": false, "pred": "male", "answer": "The voice in segment 4 is that of a man. It sounds calm."}
+{"item": 103, "seg": 4, "correct": true, "pred": "male", "answer": "The voice in segment 5 is that of a man. It sounds calm."}
+{"item": 103, "seg": 5, "correct": true, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds calm."}
+{"item": 104, "seg": 0, "correct": true, "pred": "male", "answer": "The voice in segment 1 is that of a man. It sounds English with a neutral mood."}
+{"item": 104, "seg": 1, "correct": false, "pred": "male", "answer": "The voice in segment 2 is that of a man. It sounds English with a neutral mood."}
+{"item": 104, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man. It sounds English with a male speech pattern."}
+{"item": 104, "seg": 3, "correct": false, "pred": "male", "answer": "The voice in segment 4 is that of a man. It sounds English with a male speech pattern."}
+{"item": 104, "seg": 4, "correct": false, "pred": "male", "answer": "The voice in segment 5 is that of a man. It sounds English with a male speech pattern."}
+{"item": 104, "seg": 5, "correct": true, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds calm."}
+{"item": 105, "seg": 0, "correct": false, "pred": "male", "answer": "The voice in segment 1 is that of a man. It sounds calm."}
+{"item": 105, "seg": 1, "correct": false, "pred": "male", "answer": "The voice in segment 2 is that of a man. It sounds calm."}
+{"item": 105, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man. It sounds like an English male singing."}
+{"item": 105, "seg": 3, "correct": true, "pred": "male", "answer": "The voice in segment 4 is that of a man. It sounds like an English male singing."}
+{"item": 105, "seg": 4, "correct": false, "pred": "male", "answer": "The voice in segment 5 is that of a man. It sounds calm."}
+{"item": 105, "seg": 5, "correct": true, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds calm."}
+{"item": 106, "seg": 0, "correct": false, "pred": "male", "answer": "The voice in segment 1 is that of a man. It sounds calm."}
+{"item": 106, "seg": 1, "correct": true, "pred": "male", "answer": "The voice in segment 2 is that of a man. It sounds deep."}
+{"item": 106, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man."}
+{"item": 106, "seg": 3, "correct": false, "pred": "male", "answer": "The voice in segment 4 is that of a man."}
+{"item": 106, "seg": 4, "correct": false, "pred": "male", "answer": "The voice in segment 5 is that of a man."}
+{"item": 106, "seg": 5, "correct": true, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds deep."}
+{"item": 107, "seg": 0, "correct": true, "pred": "female", "answer": "The voice in segment 1 is that of a woman. It sounds happy."}
+{"item": 107, "seg": 1, "correct": null, "pred": null, "answer": "The voice in segment 2 is that of a man. It sounds English with a female tone."}
+{"item": 107, "seg": 2, "correct": null, "pred": null, "answer": "The voice in segment 3 is that of a man. It sounds English with a female tone."}
+{"item": 107, "seg": 3, "correct": true, "pred": "male", "answer": "The voice in segment 4 is that of a man. It sounds like an English male with a surprised mood."}
+{"item": 107, "seg": 4, "correct": false, "pred": "male", "answer": "The voice in segment 5 is that of a man."}
+{"item": 107, "seg": 5, "correct": true, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds like an English male with a surprised mood."}
+{"item": 108, "seg": 0, "correct": true, "pred": "male", "answer": "The voice in segment 1 is that of a man. It sounds English with a neutral mood."}
+{"item": 108, "seg": 1, "correct": false, "pred": "male", "answer": "The voice in segment 2 is that of a man. It sounds English with a male speech pattern."}
+{"item": 108, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man. It sounds English with a male speech pattern."}
+{"item": 108, "seg": 3, "correct": true, "pred": "male", "answer": "The voice in segment 4 is that of a man. It sounds English with a male speech pattern."}
+{"item": 108, "seg": 4, "correct": false, "pred": "male", "answer": "The voice in segment 5 is that of a man. It sounds English with a male speech pattern."}
+{"item": 108, "seg": 5, "correct": false, "pred": "male", "answer": "The voice in segment 6 is that of a man. It sounds English with a disgusted mood."}
+{"item": 109, "seg": 0, "correct": true, "pred": "female", "answer": "The voice in segment 1 is that of a woman. It sounds high-pitched and possibly fearful, as indicated by the description 'fearful female speech.'"}
+{"item": 109, "seg": 1, "correct": false, "pred": "male", "answer": "The voice in segment 2 is that of a man. It sounds deep."}
+{"item": 109, "seg": 2, "correct": true, "pred": "male", "answer": "The voice in segment 3 is that of a man."}
+{"item": 109, "seg": 3, "correct": true, "pred": "male", "answer": "The voice in segment 4 is that of a man."}
+{"item": 109, "seg": 4, "correct": true, "pred": "male", "answer": "The voice in segment 5 is that of a man."}
+{"item": 109, "seg": 5, "correct": true, "pred": "female", "answer": "The voice in segment 6 is that of a woman. It sounds high-pitched and possibly fearful, as indicated by the description 'fearful female speech.'"}

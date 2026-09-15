@@ -1,0 +1,9 @@
+{
+  "model": "salmonn",
+  "n_items": 20,
+  "metric": "total_audio_attention_mass",
+  "top1": 0.9035086631774902,
+  "top100_mean": 0.6360461711883545,
+  "median": 0.04497697949409485,
+  "min": 0.0001428518444299698
+}

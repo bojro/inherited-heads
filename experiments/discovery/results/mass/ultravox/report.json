@@ -1,0 +1,9 @@
+{
+  "model": "ultravox",
+  "n_items": 20,
+  "metric": "total_audio_attention_mass",
+  "top1": 0.5340291857719421,
+  "top100_mean": 0.27226144075393677,
+  "median": 0.049621738493442535,
+  "min": 9.896963248934298e-09
+}
