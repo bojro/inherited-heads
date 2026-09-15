@@ -1,0 +1,11 @@
+torch>=2.3
+transformers>=4.44   # audio arms ran on 5.x; the Bunny arms need 4.37.2 in a separate environment
+accelerate
+bitsandbytes; sys_platform == "linux"
+datasets<4   # 4.x+ decodes audio via torchcodec (needs system ffmpeg); 3.x uses soundfile
+soundfile
+librosa
+pandas
+pyarrow
+numpy
+matplotlib
