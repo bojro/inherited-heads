@@ -1,0 +1,220 @@
+\begin{thebibliography}{40}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Anonymous(2026)}]{unittests2026}
+Anonymous. 2026.
+\newblock \href {https://openreview.net/forum?id=ZjKZ7iHmEV} {{When Circuits Are Too Broad: Unit Tests for Mechanistic Interpretability}}.
+\newblock ICML 2026 Mechanistic Interpretability Workshop.
+
+\bibitem[{Bektursun(2026)}]{bektursun2026borrowed}
+Abay Bektursun. 2026.
+\newblock \href {https://arxiv.org/abs/2605.00333} {{Borrowed Geometry: Cross-Distribution Head-Importance Fingerprints of Frozen Pretrained Gemma 4 31B}}.
+\newblock \emph{Preprint}, arXiv:2605.00333.
+
+\bibitem[{Billa(2026)}]{cascade2026}
+Jayadev Billa. 2026.
+\newblock \href {https://arxiv.org/abs/2602.17598} {{The Cascade Equivalence Hypothesis: When Do Speech LLMs Behave Like ASR$\rightarrow$LLM Pipelines?}}
+\newblock \emph{Preprint}, arXiv:2602.17598.
+
+\bibitem[{Choi et~al.(2026)Choi, Choi, Kwon, Joung, Kim, and Lee}]{choi2026truth}
+Miso Choi, Seonga Choi, Mincheol Kwon, Woosung Joung, Jinkyu Kim, and Jungbeom Lee. 2026.
+\newblock \href {https://arxiv.org/abs/2606.15821} {{The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages}}.
+\newblock \emph{Preprint}, arXiv:2606.15821.
+\newblock ICML 2026.
+
+\bibitem[{Christensen et~al.(2026)Christensen, Amdahl-Culleton, Ray, Tahir, Riechers, and Shai}]{computationalunit2026}
+Casper~L. Christensen, Loren Amdahl-Culleton, Kyle~J. Ray, Javan Tahir, Paul~M. Riechers, and Adam Shai. 2026.
+\newblock \href {https://openreview.net/forum?id=QVcsBMonuz} {{When Is an Attention Head a Computational Unit? Shared Circuits Despite Orthogonal Representations}}.
+\newblock ICML 2026 Mechanistic Interpretability Workshop.
+
+\bibitem[{Chu et~al.(2024)Chu, Xu, Yang, Wei, Wei, Guo, Leng, Lv, He, Lin, Zhou, and Zhou}]{qwen2audio2024}
+Yunfei Chu, Jin Xu, Qian Yang, Haojie Wei, Xipin Wei, Zhifang Guo, Yichong Leng, Yuanjun Lv, Jinzheng He, Junyang Lin, Chang Zhou, and Jingren Zhou. 2024.
+\newblock \href {https://arxiv.org/abs/2407.10759} {{Qwen2-Audio Technical Report}}.
+\newblock \emph{Preprint}, arXiv:2407.10759.
+
+\bibitem[{Deng and Yang(2025)}]{maskcd2025}
+Jingyuan Deng and Yujiu Yang. 2025.
+\newblock \href {https://arxiv.org/abs/2510.02790} {{MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding}}.
+\newblock \emph{Preprint}, arXiv:2510.02790.
+\newblock EMNLP 2025 Findings.
+
+\bibitem[{Fujisawa and Kondo(2026)}]{seedstability2026}
+Nozomu Fujisawa and Masaaki Kondo. 2026.
+\newblock \href {https://openreview.net/forum?id=YS8snLhZoC} {{Variant-specific crosscoder features are seed-stable but not detectably task-causal in a GRPO-LoRA math setting}}.
+\newblock ICML 2026 Mechanistic Interpretability Workshop.
+
+\bibitem[{Gandikota and Bau(2026)}]{gandikota2026gaze}
+Rohit Gandikota and David Bau. 2026.
+\newblock \href {https://arxiv.org/abs/2606.14703} {{Gaze Heads: How VLMs Look at What They Describe}}.
+\newblock \emph{Preprint}, arXiv:2606.14703.
+
+\bibitem[{Gema et~al.(2026)Gema, Alex, and Minervini}]{locos2026}
+Aryo~Pradipta Gema, Beatrice Alex, and Pasquale Minervini. 2026.
+\newblock \href {https://arxiv.org/abs/2607.01002} {{Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads}}.
+\newblock \emph{Preprint}, arXiv:2607.01002.
+
+\bibitem[{Glazer et~al.(2026)Glazer, Aharon, and Fetaya}]{audiospecialistheads}
+Neta Glazer, Lenny Aharon, and Ethan Fetaya. 2026.
+\newblock \href {https://arxiv.org/abs/2603.06854} {{Are Audio-Language Models Listening? Audio-Specialist Heads for Adaptive Audio Steering}}.
+\newblock \emph{Preprint}, arXiv:2603.06854.
+
+\bibitem[{Guo et~al.(2025)Guo, Li, Wang, Li, Wang, Chen, and Yu}]{ahamask2026}
+Yiwei Guo, Bohan Li, Hankun Wang, Zhihan Li, Shuai Wang, Xie Chen, and Kai Yu. 2025.
+\newblock \href {https://arxiv.org/abs/2509.01787} {{AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions}}.
+\newblock \emph{Preprint}, arXiv:2509.01787.
+\newblock AAAI 2026.
+
+\bibitem[{Jiang et~al.(2026)Jiang, Wu, Wu, and Dai}]{modalityconflict2026}
+Jinrui Jiang, Zhangtai Wu, Zhen Wu, and Xinyu Dai. 2026.
+\newblock \href {https://arxiv.org/abs/2605.19250} {{Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination}}.
+\newblock \emph{Preprint}, arXiv:2605.19250.
+
+\bibitem[{Kang et~al.(2025)Kang, Kim, Kim, and Hwang}]{kang2025sink}
+Seil Kang, Jinyeong Kim, Junhyeok Kim, and Seong~Jae Hwang. 2025.
+\newblock \href {https://arxiv.org/abs/2503.03321} {{See What You Are Told: Visual Attention Sink in Large Multimodal Models}}.
+\newblock \emph{Preprint}, arXiv:2503.03321.
+\newblock ICLR 2025.
+
+\bibitem[{Kobayashi et~al.(2020)Kobayashi, Kuribayashi, Yokoi, and Inui}]{kobayashi2020attention}
+Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, and Kentaro Inui. 2020.
+\newblock \href {https://arxiv.org/abs/2004.10102} {{Attention is Not Only a Weight: Analyzing Transformers with Vector Norms}}.
+\newblock \emph{Preprint}, arXiv:2004.10102.
+\newblock EMNLP 2020.
+
+\bibitem[{Korznikov et~al.(2026)Korznikov, Galichin, Dontsov, Rogov, Oseledets, and Tutubalina}]{saerandom2026}
+Anton Korznikov, Andrey Galichin, Alexey Dontsov, Oleg Rogov, Ivan Oseledets, and Elena Tutubalina. 2026.
+\newblock \href {https://arxiv.org/abs/2602.14111} {{Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?}}
+\newblock \emph{Preprint}, arXiv:2602.14111.
+\newblock ICML 2026 Mechanistic Interpretability Workshop.
+
+\bibitem[{Lee et~al.(2026)Lee, Park, Song, Lee, Cho, Kim, Yi, Kim, and Yoon}]{hear2026}
+Dongwook Lee, Sangkwon Park, Eunwoo Song, Che~Hyun Lee, Youngho Cho, Junho Kim, June~Young Yi, Heeseung Kim, and Sungroh Yoon. 2026.
+\newblock \href {https://arxiv.org/abs/2608.29120} {{HEAR Who Said What: Unlocking Speaker-Attributed Reasoning via Counterfactual Voice Grounding}}.
+\newblock \emph{Preprint}, arXiv:2608.29120.
+\newblock EMNLP 2026.
+
+\bibitem[{Li et~al.(2026)Li, Wang, Zhao, Du, Li, Ren, Wong, See, Luo, Duan, Minervini, and Song}]{li2026intrinsic}
+Aaron Branson~Cigres Li, Zhaowei Wang, Yu~Zhao, Yiming Du, Haobo Li, Xiyu Ren, Ginny Wong, Simon See, Lishu Luo, Haodong Duan, Pasquale Minervini, and Yangqiu Song. 2026.
+\newblock \href {https://arxiv.org/abs/2605.27243} {{Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models}}.
+\newblock \emph{Preprint}, arXiv:2605.27243.
+\newblock EMNLP 2026.
+
+\bibitem[{Lin and Lee(2026)}]{steeringwheretolisten}
+Tsung-En Lin and Hung-Yi Lee. 2026.
+\newblock \href {https://arxiv.org/abs/2606.11400} {{Steering Where to Listen: Instruction-Based Activation Steering Redirects Temporal Attention in Large Audio-Language Models}}.
+\newblock \emph{Preprint}, arXiv:2606.11400.
+
+\bibitem[{Lin et~al.(2026)Lin, Li, Xing, He, Cui, Li, Ding, Zhou, and Tang}]{dynamicheads2026}
+Yuping Lin, Zitao Li, Yue Xing, Pengfei He, Yingqian Cui, Yaliang Li, Bolin Ding, Jingren Zhou, and Jiliang Tang. 2026.
+\newblock \href {https://arxiv.org/abs/2602.11162} {{Retrieval Heads are Dynamic}}.
+\newblock \emph{Preprint}, arXiv:2602.11162.
+\newblock ACL 2026.
+
+\bibitem[{Luo et~al.(2026)Luo, Espinosa~Zarlenga, and Jamnik}]{skop2026}
+Haoyan Luo, Mateo Espinosa~Zarlenga, and Mateja Jamnik. 2026.
+\newblock \href {https://openreview.net/forum?id=BYTQ4nQRha} {{Don't Lose Focus: Activation Steering via Key-Orthogonal Projections}}.
+\newblock ICML 2026 Mechanistic Interpretability Workshop.
+
+\bibitem[{Makelov et~al.(2023)Makelov, Lange, and Nanda}]{makelov2024illusion}
+Aleksandar Makelov, Georg Lange, and Neel Nanda. 2023.
+\newblock \href {https://arxiv.org/abs/2311.17030} {{Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching}}.
+\newblock \emph{Preprint}, arXiv:2311.17030.
+
+\bibitem[{Park et~al.(2026)Park, Choi, Lee, and Sung}]{park2026vrh}
+Chanho Park, Daehyeon Choi, Jihyun Lee, and Minhyuk Sung. 2026.
+\newblock \href {https://arxiv.org/abs/2608.27417} {{Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information}}.
+\newblock \emph{Preprint}, arXiv:2608.27417.
+\newblock ICML 2026 Mechanistic Interpretability Workshop.
+
+\bibitem[{Prasad et~al.(2026)Prasad, Ullrich, and Graichen}]{prasad2026steering}
+Darshan~Nagendra Prasad, Lars Ullrich, and Knut Graichen. 2026.
+\newblock \href {https://arxiv.org/abs/2608.17095} {{Inference-Time Attention Steering for Vision-Language-Action Driving Models}}.
+\newblock \emph{Preprint}, arXiv:2608.17095.
+\newblock ECCV 2026.
+
+\bibitem[{Sadanandan and Behzadan(2026)}]{sadanandan2026grounding}
+Binesh Sadanandan and Vahid Behzadan. 2026.
+\newblock \href {https://arxiv.org/abs/2607.18577} {{Attention Without Grounding: Causal Evaluation of Visual Explanations in Medical VLMs}}.
+\newblock \emph{Preprint}, arXiv:2607.18577.
+
+\bibitem[{Sandoval-Segura et~al.(2026)Sandoval-Segura, Wang, Panda, Goldblum, Basri, Goldstein, and Jacobs}]{inactiveheads2026}
+Pedro Sandoval-Segura, Xijun Wang, Ashwinee Panda, Micah Goldblum, Ronen Basri, Tom Goldstein, and David Jacobs. 2026.
+\newblock \href {https://openreview.net/forum?id=dfYMjaiMG4} {{Identifying and Evaluating Inactive Heads in Pretrained LLMs}}.
+\newblock ICLR 2026.
+
+\bibitem[{Sengar et~al.(2026)Sengar, Saurez, Har, and Lee}]{contrastiveheads2026}
+Neha Sengar, Andres Saurez, Dongsoo Har, and Sangkeum Lee. 2026.
+\newblock \href {https://openreview.net/forum?id=CnrAiXbw8a} {{Few Contrastive Attention Heads Enable Visual Grounding in Large Vision-Language Models}}.
+\newblock Transactions on Machine Learning Research.
+
+\bibitem[{Sheng and Fu(2026)}]{shengfu2026matched}
+Yang Sheng and Jie Fu. 2026.
+\newblock \href {https://arxiv.org/abs/2607.18921} {{Circuit Claims Depend on What Is Extracted and How It Is Compared}}.
+\newblock \emph{Preprint}, arXiv:2607.18921.
+
+\bibitem[{Sun et~al.(2026)Sun, Qiu, Li, Tang, Lou, and Zhang}]{core2026heads}
+Ruoxi Sun, Quantong Qiu, Juntao Li, Zecheng Tang, Yihang Lou, and Min Zhang. 2026.
+\newblock \href {https://arxiv.org/abs/2606.05843} {{Mechanistic Insights into Functional Sparsity in Multimodal LLMs via CoRe Heads}}.
+\newblock \emph{Preprint}, arXiv:2606.05843.
+
+\bibitem[{Tang et~al.(2023)Tang, Yu, Sun, Chen, Tan, Li, Lu, Ma, and Zhang}]{salmonn2024}
+Changli Tang, Wenyi Yu, Guangzhi Sun, Xianzhao Chen, Tian Tan, Wei Li, Lu~Lu, Zejun Ma, and Chao Zhang. 2023.
+\newblock \href {https://arxiv.org/abs/2310.13289} {{SALMONN: Towards Generic Hearing Abilities for Large Language Models}}.
+\newblock \emph{Preprint}, arXiv:2310.13289.
+\newblock ICLR 2024.
+
+\bibitem[{Wang et~al.(2025{\natexlab{a}})Wang, Guo, Li, Tian, Nie, Xu, and Han}]{circlerope2025}
+Chengcheng Wang, Jianyuan Guo, Hongguang Li, Yuchuan Tian, Ying Nie, Chang Xu, and Kai Han. 2025{\natexlab{a}}.
+\newblock \href {https://arxiv.org/abs/2505.16416} {{Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models}}.
+\newblock \emph{Preprint}, arXiv:2505.16416.
+
+\bibitem[{Wang(2026)}]{writerscancellers2026}
+Han-yu Wang. 2026.
+\newblock \href {https://arxiv.org/abs/2606.07560} {{Function-Vector Heads Are Two Populations: Writers and Cancellers in In-Context Learning}}.
+\newblock \emph{Preprint}, arXiv:2606.07560.
+
+\bibitem[{Wang et~al.(2024)Wang, Du, Guo, Wang, Chen, and Yu}]{alignmentmaps2024}
+Hankun Wang, Chenpeng Du, Yiwei Guo, Shuai Wang, Xie Chen, and Kai Yu. 2024.
+\newblock \href {https://arxiv.org/abs/2404.19723} {{Attention-Constrained Inference for Robust Decoder-Only Text-to-Speech}}.
+\newblock \emph{Preprint}, arXiv:2404.19723.
+\newblock SLT 2024.
+
+\bibitem[{Wang et~al.(2025{\natexlab{b}})Wang, Yang, Wang, Zhang, Xie, Hu, and Wang}]{pahq2025}
+Xinhai Wang, Shu Yang, Liangyu Wang, Lin Zhang, Huanyi Xie, Lijie Hu, and Di~Wang. 2025{\natexlab{b}}.
+\newblock \href {https://arxiv.org/abs/2510.23264} {{PAHQ: Accelerating Automated Circuit Discovery through Mixed-Precision Inference Optimization}}.
+\newblock \emph{Preprint}, arXiv:2510.23264.
+
+\bibitem[{Wang et~al.(2026)Wang, He, Gui, Liu, He, Liu, Hu, and Zhang}]{audiokv2026}
+Yuxuan Wang, Peize He, Xiyan Gui, Xiaoqian Liu, Junhao He, Xuyang Liu, Xuming Hu, and Linfeng Zhang. 2026.
+\newblock \href {https://arxiv.org/abs/2604.06694} {{AudioKV: KV Cache Eviction in Efficient Large Audio Language Models}}.
+\newblock \emph{Preprint}, arXiv:2604.06694.
+\newblock ACM MM 2026.
+
+\bibitem[{Wu et~al.(2024)Wu, Geiger, Huang, Arora, Icard, Potts, and Goodman}]{wu2024rebuttal}
+Zhengxuan Wu, Atticus Geiger, Jing Huang, Aryaman Arora, Thomas Icard, Christopher Potts, and Noah~D. Goodman. 2024.
+\newblock \href {https://arxiv.org/abs/2401.12631} {{A Reply to Makelov et al. (2023)'s "Interpretability Illusion" Arguments}}.
+\newblock \emph{Preprint}, arXiv:2401.12631.
+
+\bibitem[{Yao et~al.(2026)Yao, Lyu, Ni, Wang, Luo, Yang, and Su}]{wnw2026}
+Yiming Yao, Chenyang Lyu, Xuanfan Ni, Longyue Wang, Weihua Luo, Yazheng Yang, and Jinsong Su. 2026.
+\newblock \href {https://arxiv.org/abs/2608.22704} {{WnW: Waxing-and-Waning KV Cache for Long-Form Speech LLMs}}.
+\newblock \emph{Preprint}, arXiv:2608.22704.
+\newblock EMNLP 2026.
+
+\bibitem[{Zhang et~al.(2023)Zhang, Singh, Liu, Liu, Yu, Gao, and Zhao}]{zhang2024pasta}
+Qingru Zhang, Chandan Singh, Liyuan Liu, Xiaodong Liu, Bin Yu, Jianfeng Gao, and Tuo Zhao. 2023.
+\newblock \href {https://arxiv.org/abs/2311.02262} {{Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs}}.
+\newblock \emph{Preprint}, arXiv:2311.02262.
+\newblock ICLR 2024.
+
+\bibitem[{Zhang and Ma(2026)}]{zhangma2026ibs}
+Yiyou Zhang and Liyan Ma. 2026.
+\newblock \href {https://doi.org/10.3390/a19030238} {{Information Bottleneck Scores for Identifying Causally Informative Attention Heads in Vision--Language Models}}.
+\newblock \emph{Algorithms}, 19(3):238.
+
+\bibitem[{Zhao et~al.(2025)Zhao, Yuan, Lin, Ruan, Lu, Fan, Cheng, and Zeng}]{lowerregion2025}
+Kai Zhao, Wubang Yuan, Yuchen Lin, Liting Ruan, Xiaofeng Lu, Deng-Ping Fan, Ming-Ming Cheng, and Dan Zeng. 2025.
+\newblock \href {https://arxiv.org/abs/2508.17807} {{Attention Debiasing for Token Pruning in Vision Language Models}}.
+\newblock \emph{Preprint}, arXiv:2508.17807.
+
+\end{thebibliography}
